@@ -1,4 +1,4 @@
-##⚡ Global EV Adoption & Charging Infrastructure Analysis
+⚡ Global EV Adoption & Charging Infrastructure Analysis
 
 #
 An interactive Tableau data visualization project exploring the rapid growth of electric vehicles (EVs) and the expansion of global charging infrastructure.
